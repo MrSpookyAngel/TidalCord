@@ -63,7 +63,7 @@ When running the bot for the first time, you will be prompted to log into your T
 
 1. A code will be displayed in the terminal.
 2. Visit the link provided in the terminal, log into your Tidal account, and enter the code.
-3. Once authenticated, the bot will be able to access your Tidal library and begin streaming music.
+3. Once authenticated, the bot will be able to begin streaming music.
 
 ---
 
