@@ -1,0 +1,12 @@
+#!/bin/bash
+
+source .venv/bin/activate
+
+while true; do
+  until (python main.py); do
+    echo "Sleeping 2 seconds. Press Ctrl+C to end"
+    sleep 2
+  done
+echo "Sleeping 2 seconds. Press Ctrl+C to end."
+sleep 2
+done

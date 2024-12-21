@@ -1,0 +1,2 @@
+class TidalLoginError(Exception):
+    pass
