@@ -1,9 +1,15 @@
-# TidalCord  
+<p align="center">
+   <img src="https://raw.githubusercontent.com/MrSpookyAngel/TidalCord/main/assets/TidalCord.png"/>
+</p>
+
+# TidalCord
+
 **TidalCord** is a cross-platform Discord music bot built with Python 3.8+ using the [`discord.py`](https://github.com/Rapptz/discord.py) and [`tidalapi`](https://github.com/tamland/python-tidal) libraries. It streams music from the Tidal music service (requires a **Tidal Premium account**) by downloading songs to a cache and then streaming them to your Discord server.. The only key you need is a Discord Bot token!
 
 ---
 
 ## Features
+
 - Stream high-quality music directly from Tidal to your Discord server.
 - Auto-identify songs from YouTube links and map them to Tidal.
 - Lightweight and easy to set up.
@@ -11,13 +17,15 @@
 ---
 
 ## Disclaimer
+
 TidalCord is likely against the terms of service of Tidal and/or YouTube.
 By using this software, you accept full responsibility for any potential issues, including account bans or other consequences.
 The creator of this project is not responsible for any misuse or violations of third-party terms of service.
 
 ---
 
-## Requirements  
+## Requirements
+
 1. [Python 3.8+](https://www.python.org/)
 2. [FFmpeg](https://ffmpeg.org/download.html)
 
@@ -26,12 +34,14 @@ The creator of this project is not responsible for any misuse or violations of t
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/MrSpookyAngel/TidalCord
    cd TidalCord
    ```
 
 2. Create and activate a virtual environment (recommended):
+
    ```bash
    python -m venv venv
    source venv/bin/activate   # On Linux/macOS
@@ -39,11 +49,13 @@ The creator of this project is not responsible for any misuse or violations of t
    ```
 
 3. Install dependencies:
+
    ```bash
    pip install -r requirements.txt
    ```
 
 4. Configure the environment:
+
    - Copy `example.env` to `.env`:
      ```bash
      cp example.env .env
@@ -59,6 +71,7 @@ The creator of this project is not responsible for any misuse or violations of t
 ---
 
 ## First-Time Setup
+
 When running the bot for the first time, you will be prompted to log into your Tidal account.
 
 1. A code will be displayed in the terminal.
@@ -68,6 +81,7 @@ When running the bot for the first time, you will be prompted to log into your T
 ---
 
 ## Notes
+
 - A **Tidal Premium account** is required for streaming music.
 - This project is a work in progress, and some features may be improved in future updates.
 
@@ -75,4 +89,4 @@ When running the bot for the first time, you will be prompted to log into your T
 
 Feel free to suggest additional changes or improvements!
 
---- 
+---
