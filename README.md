@@ -4,7 +4,7 @@
 
 # TidalCord
 
-**TidalCord** is a cross-platform Discord music bot built with Python 3.8+ using the [`discord.py`](https://github.com/Rapptz/discord.py) and [`tidalapi`](https://github.com/tamland/python-tidal) libraries. It streams music from the Tidal music service (requires a **Tidal Premium account**) by downloading songs to a cache and then streaming them to your Discord server.. The only key you need is a Discord Bot token!
+**TidalCord** is a cross-platform Discord music bot built with Python 3.8+ using the [`discord.py`](https://github.com/Rapptz/discord.py) and [`tidalapi`](https://github.com/tamland/python-tidal) libraries. It streams music from the Tidal music service (requires a **Tidal Premium account**) by downloading songs to a cache and then streaming them to your Discord server. The only key you need is a Discord Bot token!
 
 ---
 
