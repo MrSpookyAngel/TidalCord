@@ -1,3 +1,8 @@
+**Repository Archived**
+
+Visit its successor: [tidalcordrs](https://github.com/MrSpookyAngel/tidalcordrs)
+
+---
 <p align="center">
    <img src="https://raw.githubusercontent.com/MrSpookyAngel/TidalCord/main/assets/TidalCord.png"/>
 </p>
